@@ -1,0 +1,16 @@
+.centrarInput{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.letraG{
+    font-size: 30px;
+    font-weight: normal;
+    font-style: italic;
+    text-align: center;
+}
+
+.botonT{
+    width: 30%;
+}

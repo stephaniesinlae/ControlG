@@ -1,0 +1,27 @@
+.navbar {
+    background-color: #fffacd;
+    width: 100%;
+}
+
+.navbar-img {
+    height: 100px;
+}
+
+.colocarNavbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.centrarTexto{
+    text-align: right;
+    font-family:Monospace;
+    font-weight: bold;
+    background-color: #fffacd;
+    font-size: medium;
+}
+
+.margenD{
+    margin-right: 10px;
+}
+

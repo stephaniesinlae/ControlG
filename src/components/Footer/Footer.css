@@ -1,0 +1,16 @@
+.fondo {
+    background-color:  #412227;
+    width: 100%;
+    background-size: cover; 
+}
+
+.colocar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.margenA{
+    margin-top: 15px;
+}
