@@ -8,10 +8,10 @@ const Navbar = () => {
     return (
         <header className="bg">
             <nav className="navbar colocarNavbar">
-                <NavLink className="navbar-brand" activeClsssName="disable" to="/">
+                <NavLink className="navbar-brand" activeClsssName="disable" to="#">
                     <img src={logoG} alt="logo ControlG" className="navbar-img"/>
                 </NavLink>
-                <NavLink className="navbar-brand" activeClsssName="disable" to="https://www.facebook.com/inbecc/">
+                <NavLink className="navbar-brand" activeClsssName="disable" to="#">
                     <img src={logo} alt="logo INBECC" className="navbar-img"/>
                 </NavLink>
             </nav>
